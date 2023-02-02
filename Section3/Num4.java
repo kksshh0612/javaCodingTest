@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-//두 리스트 합치기
+//4. 두 리스트 합치기
 public class Num4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
