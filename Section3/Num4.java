@@ -33,12 +33,7 @@ public class Num4 {
                 indexSecond++;
             }
         }
-//        if(indexFisrt < N1){
-//            ansList.addAll(indexFisrt, list1);
-//        }
-//        if(indexSecond < N2){
-//            ansList.addAll(indexSecond, list2);
-//        }
+
         while(indexFisrt < N1){
             ansList.add(list1.get(indexFisrt++));
         }
