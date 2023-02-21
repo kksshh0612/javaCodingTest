@@ -12,7 +12,7 @@ public class Num1 {
         for(int i = 0; i < N; i++){
             arr[i] = scanner.nextInt();
         }
-        int left = 0, right = N - 1, mid = 0;
+        int left = 0, right = N - 1, mid = (left + right) / 2;
 
         Arrays.sort(arr);
 
